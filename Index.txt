@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Donation</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width-device-width,initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="heading">
+		<div class="rows">
+			<div class="cols">
+				<p>Payment page </p>
+			</div>
+			<div class="cols">
+				<a href="#home">HOME</a>
+			    <a href="about.html">ABOUT</a>
+			</div>
+		</div>			
+    </div>
+<p>add any images in img tag. refer to my code to see how.</p>
+    <div class="home" id="home">
+        <div class="banner">
+            <h3>Payment button</h3>
+			<p>add link of rozarpay link in href </p>
+            <button class="btn"><a href=" ">DONATE NOW </a></button>
+        </div>
+    </div>
+	<br><br>
+	<div class="footer">
+		<center> <span style="font-family:verdana;">&copy;</span>  2021 Payment Gateway Integration </center>
+		</div>
+
+</body>
+</html>
